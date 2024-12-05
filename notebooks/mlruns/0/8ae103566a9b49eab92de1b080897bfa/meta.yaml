@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sanero/Documents/Data/WorkData/tc-test-task/notebooks/mlruns/0/8ae103566a9b49eab92de1b080897bfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ae103566a9b49eab92de1b080897bfa
+run_name: sincere-robin-986
+run_uuid: 8ae103566a9b49eab92de1b080897bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733419796970
+status: 1
+tags: []
+user_id: sanero
